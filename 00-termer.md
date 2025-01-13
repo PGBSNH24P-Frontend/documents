@@ -1,18 +1,5 @@
 # Begrepp och termer
 
-JavaScript (JS)
-hypertext markup? (html)
-cascading style sheets (css)
-API
-frontend
-design
-structure
-layout
-webb
-webbsida
-webbplats
-hemsida
-
 ### JavaScript (JS)
 
 Ett programmeringsspråk som används för att skapa interaktiva och dynamiska webbsidor. JavaScript är till för att implementera funktionalitet på webbsidor, genom att exempelvis hantera knapptryck, rendera element och prata med API:er. Det är ett av de mest centrala verktygen för modern webbutveckling.
