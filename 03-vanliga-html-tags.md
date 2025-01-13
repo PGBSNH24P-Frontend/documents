@@ -1,0 +1,27 @@
+# Vanliga HTML tags
+
+- `h1 - h6`
+  - Definierar "headings", eller titlar, av olika nivåer.
+  - `h1` är störst och `h6` är minst.
+  - Tillhör ofta en `section`.
+- `div`
+  - En generell behållare av andra element.
+  - Används ofta i styling syfte
+- `section`
+  - En del av en sida, kan vara vad som helst
+  - Har ofta en heading (`h1 - h6`) per section.
+- `button`
+  - Definierar en knapp som är klickbar (men gör inget utan JavaScript)
+  - Har default styling som är ändringsbar
+- `p`
+  - Representerar en paragraf, kan vara vad som helst.
+  - Längre text - meningar - ligger ofta i `p` tags.
+- `a`
+  - Skapar en klickbar länk som leder till en specifik plats, ofta en annan webbsida, men det kan vara en plats på samma webbsida.
+- `input`
+  - Definierar ett input text fält
+  - Användare kan skriva in text som tas emot med JavaScript
+  - Finns olika typer: text, date, password, checkbox, radio
+- `ol & ul med li`
+  - Definierar en lista med saker, antingen unordered (`ul`) eller ordered (`ol`).
+  - Saker i listan definieras med `li` element.

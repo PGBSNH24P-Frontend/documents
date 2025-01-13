@@ -1,0 +1,31 @@
+# Vanliga CSS egenskaper
+
+- `color`
+  - Ange färg på text
+  - Använder färg enheter som rgb, rgba, hex och hsl
+- `background-color`
+  - Ange färg på elementets backgrund
+  - Använder färg enheter som rgb, rgba, hex och hsl
+- `background`
+  - Kan ändra färg, bakgrundsbild, storlek och mer
+- `font-size`
+  - Ändra textstorlek
+  - Använder längd enheter som px, rem och %
+- `width, min-width & max-width`
+  - Ange storlek i bredd
+  - Använder längd enheter som px, rem och %
+- `height, min-height & max-height`
+  - Ange storlek i höjd
+  - Använder längd enheter som px, rem och %
+- `margin`
+  - Ge element utrymme till andra element
+  - Använder längd enheter som px, rem och %
+- `padding`
+  - Ge element utrymme inuti sig själv
+  - Använder längd enheter som px, rem och %
+- `border, border-radius`
+  - Ge element färg i kanterna
+  - Ge element avrundade hörn
+- `display`
+  - Ändra hur elementet visas upp och beter sig
+  - Några möjliga värden: block, inline, flex, grid, none
